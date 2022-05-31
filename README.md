@@ -8,5 +8,5 @@ Google Play
 https://play.google.com/store/apps/details?id=gaussian.plume.calc
 
 
-Further improvements: Adding the graphs for the horizontal and vertical dispersion coefficient as a function of downwind distance from the source, 
+Example of further improvements: Adding the graphs for the horizontal and vertical dispersion coefficient as a function of downwind distance from the source, 
 stability classes determination, Briggs plume rise and Stack-tip downwash calculations.
