@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gaussian Plume</string>
+    <string name="action_settings">Settings</string>
+    <string name="iconCalculator">Calculate contaminant concentration</string>
+    <string name="confirmation">Confirmed</string>
+    <string name="overFlowMenu">Overflow</string>
+    <string name="display">Display</string>
+    <string name="about">Terms of Service</string>
+    <string name="about1">About</string>
+    <string name="headline">Gaussian dispersion equation</string>
+
+    <string name="unitQ">pollution rate (Q) [g/s]</string>
+    <string name="unitU">average wind speed (u) [m/s]</string>
+    <string name="unitSY">σY [m]</string>
+    <string name="unitSZ">σZ [m]</string>
+    <string name="unitH">effective stack height (H) [m]</string>
+    <string name="unitZ">vertical distance (z) [m]</string>
+    <string name="unitY">crosswind distance (y) [m]</string>
+
+    <string name="result">Concentration</string>
+    <string name="calculationError">Error (empty fields)</string>
+    <string name="unitResult">[μg/m3]</string>
+
+    <string name="aboutAppHeadline">TERMS OF SERVICE</string>
+    <string name="icon">Icon</string>
+    <string name="textAboutApp">"You are solely responsible for the use of application and possible consequences.
+
+By installing and running the application you agree with the terms of service.
+        "</string>
+
+    <string name="aboutAppHeadline1">ABOUT</string>
+    <string name="icon1">Icon</string>
+    <string name="textAboutApp1">"Gaussian Point Source Plume Model.
+
+C(x,y,z) Pollutant concentration as a function of downwind position (x,y,z)
+
+Equation - Plume with reflection of pollutant from the ground for stack height H.
+        "</string>
+
+</resources>
